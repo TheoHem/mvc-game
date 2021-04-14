@@ -1,0 +1,3 @@
+curl.cainfo="C:\xampp\apache\bin\curl-ca-bundle.crt"
+
+openssl.cafile="C:\xampp\apache\bin\curl-ca-bundle.crt"
